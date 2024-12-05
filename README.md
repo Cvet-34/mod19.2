@@ -6,7 +6,7 @@
 <p>from task1.models import Buyer</p>
 <p>создаем объекты для таблицы Buyer</p>
 <p>Buyer.objects.create(id=2, name ='Ilya', balance=1500.05, age=24)</p>
-Buyer.objects.create(id=3, name ='Terminator2000', balance=42.15, age=52)
+<h3 align="center">Buyer.objects.create(id=3, name ='Terminator2000', balance=42.15, age=52)</h3>
 Buyer.objects.create(id=4, name ='Ubvator432', balance=0.5, age=16)
 импортируем модель Game:
 from task1.models import Game
