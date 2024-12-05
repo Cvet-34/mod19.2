@@ -1,7 +1,7 @@
 <h3 align="center">Домашнее работа QuerySet запросы. </h3>
-<h4>1. переходим в специальнаую консоль:</h4>
+<h4>Переходим в специальнаую консоль:</h4>
 <p>python manage.py shell</p>
-<h4> далее вводим QuerySet запросы:</h4>
+<h4> Далее вводим QuerySet запросы:</h4>
 <p>1. импортируем модель Buyer:</p>
 <p>from task1.models import Buyer</p>
 <p>2. создаем объекты для таблицы Buyer</p>
