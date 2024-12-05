@@ -1,6 +1,6 @@
-специальная консоль:
-python manage.py shell
-далее вводим QuerySet запросы:
+<h4>специальная консоль:</h4>
+<h3>python manage.py shell</h3>
+<h4>далее вводим QuerySet запросы:</h4>
 импортируем модель Buyer:
 from task1.models import Buyer
 создаем объекты для таблицы Buyer
