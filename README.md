@@ -1,4 +1,4 @@
-<h3 align="center">Домашнее работа QuerySet запросы. </h3>
+<h3 align="center">Домашняя работа QuerySet запросы. </h3>
 <h4>Переходим в специальнаую консоль:</h4>
 <p>python manage.py shell</p>
 <h4> Далее вводим QuerySet запросы:</h4>
