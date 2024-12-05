@@ -14,7 +14,7 @@
 <p>Game.objects.create(id=2, title='Cyberpunk', cost=31, size=46.2, description='Game of the year', age_limited=1)</p>
 <p>Game.objects.create(id=3, title='Mario', cost=5, size=0.5, description='Old Game', age_limited=0)</p>
 <p>Game.objects.create(id=4, title='Hitman', cost=12, size=36.6, description='Who', age_limited=1)</p>
-<p>5. Game свяжите их полем buyer:</p> 
+<p>5. Game связываем с полем buyer:</p> 
 <p>Game.objects.get(id=2).buyer.set((2, 3))</p>
 <p>Game.objects.get(id=4).buyer.set((2, 3))</p>
 <p>Game.objects.get(id=3).buyer.set((2, 3, 4))</p>
