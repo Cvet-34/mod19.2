@@ -1,12 +1,12 @@
-<h3>Домашнее работа QuerySet. </h3>
-<p>специальная консоль:</p>
-<p>python manage.py shell</p>
-<p>далее вводим QuerySet запросы:</p>
-<p>импортируем модель Buyer:</p>
-<p>from task1.models import Buyer</p>
-<p>создаем объекты для таблицы Buyer</p>
-<p>Buyer.objects.create(id=2, name ='Ilya', balance=1500.05, age=24)</p>
-<h3 align="center">Buyer.objects.create(id=3, name ='Terminator2000', balance=42.15, age=52)</h3>
+<h3 align="center">Домашнее работа QuerySet. </h3>
+<p align="center">специальная консоль:</p>
+<p align="center">python manage.py shell</p>
+<p align="center">далее вводим QuerySet запросы:</p>
+<p align="center">импортируем модель Buyer:</p>
+<p align="center">from task1.models import Buyer</p>
+<p align="center">создаем объекты для таблицы Buyer</p>
+<p align="center">Buyer.objects.create(id=2, name ='Ilya', balance=1500.05, age=24)</p>
+<p align="center">Buyer.objects.create(id=3, name ='Terminator2000', balance=42.15, age=52)</p>
 Buyer.objects.create(id=4, name ='Ubvator432', balance=0.5, age=16)
 импортируем модель Game:
 from task1.models import Game
