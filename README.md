@@ -1,8 +1,9 @@
-<h4>специальная консоль:</h4>
-<h3>python manage.py shell</h3>
-<h4>далее вводим QuerySet запросы:</h4>
-импортируем модель Buyer:
-from task1.models import Buyer
+<h3>Домашнее работа QuerySet. </h3>
+<p>специальная консоль:</p>
+<h6>python manage.py shell</h6>
+<p>далее вводим QuerySet запросы:</p>
+<p>импортируем модель Buyer:</p>
+<h6>from task1.models import Buyer</h6>
 создаем объекты для таблицы Buyer
 Buyer.objects.create(id=2, name ='Ilya', balance=1500.05, age=24)
 Buyer.objects.create(id=3, name ='Terminator2000', balance=42.15, age=52)
